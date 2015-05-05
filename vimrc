@@ -117,9 +117,9 @@ set background=dark
 let g:solarized_visibility = "high"
 let g:solarized_contrast = "high"
 let g:solarized_termcolors = 256
-" colorscheme solarized
+colorscheme solarized
 let base16colorspace=256
-colorscheme base16-ocean
+" colorscheme base16-ocean
 
 " hot keys
 map <C-A> ggVG
